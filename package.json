@@ -1,0 +1,23 @@
+{
+  "name": "react_8_admin_matereal_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pannu786/react_8_admin_matereal_ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pannu786/react_8_admin_matereal_ui/issues"
+  },
+  "homepage": "https://github.com/Pannu786/react_8_admin_matereal_ui#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
